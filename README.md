@@ -50,6 +50,10 @@
 
 
 
+
+https://github.com/user-attachments/assets/d68caf65-0a8f-4f11-8699-70c4ea8e54db
+
+
 ---
 
 ### 🔧 Como Executar o Projeto
